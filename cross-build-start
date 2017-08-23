@@ -1,0 +1,4 @@
+#!/usr/bin/qemu-arm-static /bin/sh
+
+mv /bin/sh /sh
+cp /usr/bin/sh-shim /bin/sh
